@@ -7,16 +7,16 @@ The purpose of this analysis is to determine if there is any bias toward favorab
 # Results
 
 How many Vine reviews and non-Vine reviews were there?
-Vine reviews: 463
-non-Vine reviews: 25094
+ * Vine reviews: 463
+ * non-Vine reviews: 25094
 
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-5 star Vine Reviews: 0
-5 star non-vine Reviews: 12033
+ * 5 star Vine Reviews: 0
+ * 5 star non-vine Reviews: 12033
 
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-Percentage of 5 stars vine reviews: 0.0%
-Percentage of 5 stars non-vine reviews: 47%
+ * Percentage of 5 stars vine reviews: 0.0%
+ * Percentage of 5 stars non-vine reviews: 47%
 
 # Summary
 
